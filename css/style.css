@@ -1,0 +1,27 @@
+div.first_container{
+	margin:100px;
+	border:1px solid green;
+}
+
+div.second_container{
+	margin:100px;
+	border:1px solid blue;
+	padding:100px;
+}
+
+span.text-my{
+	color:blue;
+}
+
+span.icon{
+	background-image: url(images/ui_icons.png);
+	background-repeat: no-repeat;
+	background-position: -65px -112px;
+	left: 0;
+	top:0;
+	background-color: transparent;
+	width: 16px;
+	height: 15px; 
+	display: inline;
+    display: inline-block;
+}
